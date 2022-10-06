@@ -1,0 +1,13 @@
+body {
+    background-image: radial-gradient(rgb(248, 123, 161), rgb(14, 215, 246), rgb(149, 255, 0))
+}
+
+h3 {
+    font-family: Algerian;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
